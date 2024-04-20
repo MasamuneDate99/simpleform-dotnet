@@ -1,0 +1,17 @@
+C:\Users\natda\Documents\Self Project\SimpleFormNet\SimpleForm\bin\Debug\net7.0-windows\SimpleForm.exe
+C:\Users\natda\Documents\Self Project\SimpleFormNet\SimpleForm\bin\Debug\net7.0-windows\SimpleForm.deps.json
+C:\Users\natda\Documents\Self Project\SimpleFormNet\SimpleForm\bin\Debug\net7.0-windows\SimpleForm.runtimeconfig.json
+C:\Users\natda\Documents\Self Project\SimpleFormNet\SimpleForm\bin\Debug\net7.0-windows\SimpleForm.dll
+C:\Users\natda\Documents\Self Project\SimpleFormNet\SimpleForm\bin\Debug\net7.0-windows\SimpleForm.pdb
+C:\Users\natda\Documents\Self Project\SimpleFormNet\SimpleForm\obj\Debug\net7.0-windows\SimpleForm.csproj.AssemblyReference.cache
+C:\Users\natda\Documents\Self Project\SimpleFormNet\SimpleForm\obj\Debug\net7.0-windows\SimpleForm.Form1.resources
+C:\Users\natda\Documents\Self Project\SimpleFormNet\SimpleForm\obj\Debug\net7.0-windows\SimpleForm.csproj.GenerateResource.cache
+C:\Users\natda\Documents\Self Project\SimpleFormNet\SimpleForm\obj\Debug\net7.0-windows\SimpleForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natda\Documents\Self Project\SimpleFormNet\SimpleForm\obj\Debug\net7.0-windows\SimpleForm.AssemblyInfoInputs.cache
+C:\Users\natda\Documents\Self Project\SimpleFormNet\SimpleForm\obj\Debug\net7.0-windows\SimpleForm.AssemblyInfo.cs
+C:\Users\natda\Documents\Self Project\SimpleFormNet\SimpleForm\obj\Debug\net7.0-windows\SimpleForm.csproj.CoreCompileInputs.cache
+C:\Users\natda\Documents\Self Project\SimpleFormNet\SimpleForm\obj\Debug\net7.0-windows\SimpleForm.dll
+C:\Users\natda\Documents\Self Project\SimpleFormNet\SimpleForm\obj\Debug\net7.0-windows\refint\SimpleForm.dll
+C:\Users\natda\Documents\Self Project\SimpleFormNet\SimpleForm\obj\Debug\net7.0-windows\SimpleForm.pdb
+C:\Users\natda\Documents\Self Project\SimpleFormNet\SimpleForm\obj\Debug\net7.0-windows\SimpleForm.genruntimeconfig.cache
+C:\Users\natda\Documents\Self Project\SimpleFormNet\SimpleForm\obj\Debug\net7.0-windows\ref\SimpleForm.dll
